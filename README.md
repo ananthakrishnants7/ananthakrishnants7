@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there 👋 I'm Ananathakrishnan
 
-<!--
-**ananthakrishnants7/ananthakrishnants7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 AI/ML Developer | 🎮 Game Dev Enthusiast | 💻 Web Developer  
+📚 B.Tech in Computer Science, College of Engineering Poonjar (2026)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- 🔮 **Fake News Detection** – NLP + Logistic Regression, 95% accuracy  
+- 🩺 **Diabetes Prediction** – ML Classification on health data  
+- 💬 **Bello Chat App** – Django + React chat app with AI and video call features  
+- 💸 **Price Prediction Model** – Regression analysis on e-commerce product data
+
+---
+
+### 🛠️ Tech Stack
+`Python` `Scikit-learn` `TensorFlow` `Pandas` `React` `Django` `Unreal Engine`
+
+---
+
+📫 [LinkedIn](https://linkedin.com/in/ananthakrishnants7) | [Resume](#) | [Mail](mailto:ananthakrishnantssunil@gmail.com)
