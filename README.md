@@ -1,6 +1,6 @@
 ### Hi there I'm Ananathakrishnan
 
-AI/ML Developer | Game Dev Enthusiast | Web Developer  
+AI/ML Developer | Web Developer  
 B.Tech in Computer Science, College of Engineering Poonjar (2026)
 
 ---
